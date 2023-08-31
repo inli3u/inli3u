@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I'm Alex 👋
+
+An experienced full-stack engineer<br>
+Passionate about user experience and pragmatism<br>
+I believe software is best designed and built together
+
+📫 Reach me at logicallydunn at gmail
 
 <!--
 **inli3u/inli3u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
